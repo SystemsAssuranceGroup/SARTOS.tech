@@ -1,1 +1,1 @@
-# SARTOS.tech
+# SARTOS
